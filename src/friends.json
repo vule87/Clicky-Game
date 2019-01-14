@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Jamaican Rastafarian",
+    "image": "https://vignette.wikia.nocookie.net/americandad/images/0/08/ADRogersDisguiseOneThatGotAway.jpg",
+    "from": "Francine's Flashback"
+  },
+  {
+    "id": 2,
+    "name": "Figure Skater",
+    "image": "https://vignette.wikia.nocookie.net/americandad/images/4/44/ADRogersDisguiseOneLittleWord.jpg",
+    "from": "Of Ice and Men"
+  },
+  {
+    "id": 3,
+    "name": "Saudi Princess",
+    "image": "https://vignette.wikia.nocookie.net/americandad/images/0/02/ADRogersDisguiseChooseyWivesChooseSmith.jpg",
+    "from": "Stan of Arabia: Part 2"
+  },
+  {
+    "id": 4,
+    "name": "Rashid the Persian",
+    "image": "https://vignette.wikia.nocookie.net/americandad/images/2/2f/ADRogersDisguiseEscapePearlBailey.jpg",
+    "from": "When a Stan loves a Woman"
+  },
+  {
+    "id": 5,
+    "name": "Professor Jordan Edelstein",
+    "image": "https://vignette.wikia.nocookie.net/americandad/images/8/88/ADRogersDisguisePullingDoubleBooty.jpg",
+    "from": "Camp Refoogee"
+  },
+  {
+    "id": 6,
+    "name": "Mary Tyler Moore",
+    "image": "https://vignette.wikia.nocookie.net/americandad/images/8/88/ADRogersDisguisePullingDoubleBooty.jpg",
+    "from": "Irregarding Steve"
+  },
+  {
+    "id": 7,
+    "name": "Lestat de Lioncourt ",
+    "image": "https://vignette.wikia.nocookie.net/americandad/images/d/d2/ADRogersDisguiseChimdale.jpg",
+    "from": "The American Dad After School Special"
+  },
+  {
+    "id": 8,
+    "name": "Professor Baxter",
+    "image": "https://vignette.wikia.nocookie.net/americandad/images/e/e4/ADRogerDisguiseStanTime.jpg",
+    "from": "Iced, Iced Babies"
+  },
+  {
+    "id": 9,
+    "name": "Krispy Kreme McDonald",
+    "image": "https://vignette.wikia.nocookie.net/americandad/images/c/c6/ADRogerDisguiseFamilyAffair.jpg",
+    "from": "American Dream Factory"
+  },
+  {
+    "id": 10,
+    "name": "Roger Epstein",
+    "image": "https://vignette.wikia.nocookie.net/americandad/images/9/96/ADRogerDisguiseLiveLetFry.jpg",
+    "from": "The Best Christmas Story Never"
+  },
+  {
+    "id": 11,
+    "name": "Painter",
+    "image": "https://vignette.wikia.nocookie.net/americandad/images/8/8a/ADRogerDisguiseMcFreeley.jpg",
+    "from": "Meter Made"
+  },
+  {
+    "id": 12,
+    "name": "Lance ",
+    "image": "https://vignette.wikia.nocookie.net/americandad/images/4/46/ADRogersDisguise1.jpg",
+    "from": "Frannie 911"
+  }
+]
